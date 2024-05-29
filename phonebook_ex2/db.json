@@ -1,0 +1,39 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    },
+    {
+      "name": "Matti Loren",
+      "number": "32-28-7387822",
+      "id": 5
+    },
+    {
+      "name": "Karija Soyak",
+      "number": "98-78-9384983",
+      "id": 6
+    },
+    {
+      "name": "Pol Daniel",
+      "number": "09-73-9876478",
+      "id": 7
+    }
+  ]
+}

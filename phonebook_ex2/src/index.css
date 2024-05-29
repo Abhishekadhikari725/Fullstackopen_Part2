@@ -1,0 +1,19 @@
+.notify{
+    color: red;
+    background: lightgray;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 25px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.confirm{
+    color: lightblue ;
+    background: rgb(8, 44, 62);
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 25px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
